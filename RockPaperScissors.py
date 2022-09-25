@@ -42,7 +42,7 @@ else:
     print(images[randomNum])
     
     
-    if choice == 0 and randNum == 2:
+    if choice == 0 and randomNum == 2:
         print("You Win")
     elif randomNum == 0 and choice == 2:
         print("You Loose")
